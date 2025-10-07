@@ -5,7 +5,8 @@ The **Axis Bank Loan Dashboard** is an interactive Excel-based project that visu
 It tracks **loan applications, funded amounts, interest rates, and customer demographics** to help identify trends and support data-driven decision-making.
 
 
-Dashboard preview
+## Dashboard preview
+
 <img width="1437" height="794" alt="Bank loan report summury dashboard" src="https://github.com/user-attachments/assets/1b075275-1323-4154-9aee-8226e9ec6d77" />
 
 ---
